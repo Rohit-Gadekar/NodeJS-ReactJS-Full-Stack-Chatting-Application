@@ -1,4 +1,4 @@
-Full Stack Chatting Application
+Full Stack Chatting Application using NodeJS and ReactJS
 
 This is a full stack chatting application built using Node.js, React.js, and the ChatEngine API. The ChatEngine API is a real-time chat infrastructure that enables developers to build chat applications quickly and easily.
 
